@@ -3,4 +3,4 @@ git user manual
 #make a directory 
 #enter the directory
 #git init
-
+git add
